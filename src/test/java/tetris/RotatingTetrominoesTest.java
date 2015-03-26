@@ -19,8 +19,6 @@ public class RotatingTetrominoesTest extends Assert {
     // - Remove the @Ignore annotation from this class
     // - See README for how "Tetromino" is different from "Piece"
     // - Next step: FallingPiecesTest
-
-/*
     private Tetromino shape;
 
 
@@ -40,7 +38,6 @@ public class RotatingTetrominoesTest extends Assert {
             assertEquals(original, shape.toString());
         }
     }
-*/
 
 /*
     public class The_T_shape {
